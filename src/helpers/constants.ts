@@ -35,14 +35,14 @@ export function blurForNoramlUsers() {
   return "blurForNormalUsers";
 }
 // export const url = "https://intaj-starstechnology.com/jawda1/laravel-react-app/public/api/"
-export const url = `${schema}://${host}/kitchen-laravel/public/api/`;
-// export const url = `${schema}://${host}/mylaundry/kitchen-laravel/public/api/`;
-//  export const url = "http://192.168.1.5/kitchen-laravel/public/api/"
-// export const url = "https://om-pharmacy.com/kitchen-laravel/public/api/"
-// export const webUrl = "https://intaj-starstechnology.com/jawda1/kitchen-laravel/public/"
-//  export const webUrl = "http://192.168.1.5/kitchen-laravel/public/"
-// export const webUrl = `${schema}://${host}/mylaundry/kitchen-laravel/public/`;
-export const webUrl = `${schema}://${host}/kitchen-laravel/public/`;
+export const url = `${schema}://${host}/laundry-back-end/public/api/`;
+// export const url = `${schema}://${host}/mylaundry/laundry-back-end/public/api/`;
+//  export const url = "http://192.168.1.5/laundry-back-end/public/api/"
+// export const url = "https://om-pharmacy.com/laundry-back-end/public/api/"
+// export const webUrl = "https://intaj-starstechnology.com/jawda1/laundry-back-end/public/"
+//  export const webUrl = "http://192.168.1.5/laundry-back-end/public/"
+// export const webUrl = `${schema}://${host}/mylaundry/laundry-back-end/public/`;
+export const webUrl = `${schema}://${host}/laundry-back-end/public/`;
 // export const webUrl = "https://om-pharmacy.com/laravel-react-app/public/"
 export const notifyMe = (title, data, address, action) => {
   // alert(Notification.permission)
