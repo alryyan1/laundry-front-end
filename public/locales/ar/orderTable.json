@@ -1,0 +1,23 @@
+{
+    "orderTable": {
+      "orderNumber": "رقم الطلب",
+      "customer": "الزبون",
+      "area": "المنطقه",
+      "status": "الحالة",
+      "total": "اجمالي",
+      "paid": "المدفوع",
+      "orderDate": "تاريخ الطلب",
+      "deliveryDate": "تاريخ التسليم",
+      "deliveryLocation": "مكان التوصيل",
+      "notes": "ملاحظات"
+    },
+    "remaining":"متبقي",
+    "settings":"الاعدادات",
+    "discount":"التخفيض" ,
+    "complete":"اكتمال",
+    "handed":"تسليم",
+    "changeState":"تغيير الحاله",
+    "cancel":"  الغاء الطلب",
+    "delivery":"تسليم"
+  }
+  

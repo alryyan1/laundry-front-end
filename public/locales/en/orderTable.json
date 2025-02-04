@@ -1,0 +1,23 @@
+{
+    "orderTable": {
+      "orderNumber": "No",
+      "customer": "Customer",
+      "area": "Area",
+      "status": "Status",
+      "total": "Total",
+      "paid": "Paid",
+      "orderDate": "Order Date",
+      "deliveryDate": "Delivery Date",
+      "deliveryLocation": "Delivery Location",
+      "notes": "Notes"
+    },
+    "remaining":"remaining",
+    "settings":"settings",
+    "discount":"discount",
+    "complete":"complete",
+    "changeState":"Change State" ,
+    "handed":"Delivery",
+    "cancel":"Cancel",
+    "delivery":"Delivery"
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "search": "بحث",
+    "child_name": "الاسم ",
+    "meal_name": "اسم الوجبة",
+    "requested_quantity": "الكمية المسلمه",
+    "available_quantity": "الكمية المباعه ",
+    "deducted_quantity": "الكمية في البوتيك",
+    "net_quantity": "المتوفر في المخزن",
+    "remaining_quantity": "اجمالي المبيعات ",
+    "add_quantity": "اضافه كميه مباعه"
+  }
+  

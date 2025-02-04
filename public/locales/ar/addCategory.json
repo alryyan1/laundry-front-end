@@ -1,0 +1,18 @@
+{
+    "form": {
+      "add_meal_category": "إضافة  متجر جديد",
+      "category_name": "اسم المتجر",
+      "enter_category_name": "أدخل اسم المتجر",
+      "category_image": "صورة متجر",
+      "image_preview": "معاينة الصورة",
+      "add_category": "إضافة متجر"
+    },
+    "validation": {
+      "complete_all_fields": "الرجاء إدخال جميع البيانات."
+    },
+    "log": {
+      "category_name": "اسم التصنيف:",
+      "image_uploaded": "تم رفع الصورة:"
+    }
+  }
+  

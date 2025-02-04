@@ -1,0 +1,21 @@
+{
+    "manageOrders": "Manage Orders",
+    "searchOrders": "Search orders...",
+    "total": "Total",
+    "paid": "Paid",
+    "remaining": "Remaining",
+    "statuses": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "completed": "Completed",
+      "inPreparation": "In Preparation",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled"
+    },
+    "report": "Report",
+    "filter": "Filter",
+    "handed":"Delivered",
+    "notHanded":"Not Delivered",
+    "discount":"Discount"
+  }
+  
