@@ -21,10 +21,10 @@ export const cacheRtl = createCache({
 // export const host = 'intaj-starstechnology.com'
 
 // export const url = "https://intaj-starstechnology.com/jawda1/laravel-react-app/public/api/"
-export const schema = "http";
+export const schema = "https";
 // export const host = "intaj-starstechnology.com";
 // export const host = "cotton-velvet.com";
-export const host = "127.0.0.1";
+export const host = "rain-laundry.com";
 // export const host = "rain-laundry.com";
 // export const host = "del-pasta-om.com";
 // export const host = 'server1'مركز النعيم
@@ -35,14 +35,14 @@ export function blurForNoramlUsers() {
   return "blurForNormalUsers";
 }
 // export const url = "https://intaj-starstechnology.com/jawda1/laravel-react-app/public/api/"
-export const url = `${schema}://${host}/laundry-back-end/public/api/`;
-// export const url = `${schema}://${host}/mylaundry/laundry-back-end/public/api/`;
-//  export const url = "http://192.168.1.5/laundry-back-end/public/api/"
-// export const url = "https://om-pharmacy.com/laundry-back-end/public/api/"
-// export const webUrl = "https://intaj-starstechnology.com/jawda1/laundry-back-end/public/"
-//  export const webUrl = "http://192.168.1.5/laundry-back-end/public/"
-// export const webUrl = `${schema}://${host}/mylaundry/laundry-back-end/public/`;
-export const webUrl = `${schema}://${host}/laundry-back-end/public/`;
+export const url = `${schema}://${host}/two/new-branch/public/api/`;
+// export const url = `${schema}://${host}/mylaundry/two/new-branch/public/api/`;
+//  export const url = "http://192.168.1.5/two/new-branch/public/api/"
+// export const url = "https://om-pharmacy.com/two/new-branch/public/api/"
+// export const webUrl = "https://intaj-starstechnology.com/jawda1/two/new-branch/public/"
+//  export const webUrl = "http://192.168.1.5/two/new-branch/public/"
+// export const webUrl = `${schema}://${host}/mylaundry/two/new-branch/public/`;
+export const webUrl = `${schema}://${host}/two/new-branch/public/`;
 // export const webUrl = "https://om-pharmacy.com/laravel-react-app/public/"
 export const notifyMe = (title, data, address, action) => {
   // alert(Notification.permission)

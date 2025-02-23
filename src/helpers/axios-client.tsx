@@ -6,7 +6,7 @@ import { useAuthStore } from "@/AuthStore";
 const axiosClient = axios.create({
   // baseURL : `https://intaj-starstechnology.com/jawda1/laravel-react-app/public/api`
   // baseURL: `${schema}://${host}/mylaundry/laundry-back-end/public/api`,
-  baseURL: `${schema}://${host}/laundry-back-end/public/api`,
+  baseURL: `${schema}://${host}/two/new-branch/public/api`,
   //  baseURL : `http://192.168.1.5/laravel-react-app/public/api`
   // baseURL : `https://om-pharmacy.com/laravel-react-app/public/api`
 });
